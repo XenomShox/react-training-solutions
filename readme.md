@@ -5,4 +5,5 @@ In this repo you will find the solution to exercises
 ```bash
 cd <folder name>
 npm install
+npm start
 ```
